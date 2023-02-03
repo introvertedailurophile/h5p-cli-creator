@@ -1,0 +1,11 @@
+{
+    "name": "csv_to_h5p",
+    "version": "0.1.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron-prebuilt": "^1.2.0"
+    }
+}
